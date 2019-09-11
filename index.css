@@ -47,3 +47,6 @@ p {
   height: 12px;
   border-radius: 50%;
 }
+img {
+  height:50vh;
+}
